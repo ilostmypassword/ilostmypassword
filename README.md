@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub>Recognized for responsibly reported vulnerabilities through YesWeHack.</sub>
+  <sub>Recognized for responsibly reported vulnerabilities through <a href="https://yeswehack.com/hunters/veronique92">YesWeHack</a>.</sub>
 </p>
 
 <br>
