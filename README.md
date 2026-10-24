@@ -16,8 +16,6 @@
   <sub>Recognized for responsibly reported vulnerabilities through <a href="https://yeswehack.com/hunters/veronique92">YesWeHack</a>.</sub>
 </p>
 
-<br>
-
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
